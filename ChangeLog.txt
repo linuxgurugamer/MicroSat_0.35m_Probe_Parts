@@ -1,2 +1,9 @@
 1.0.0
 	Will be initial release version
+
+	Thanks to forum user @kerbas-ad-astra for the following changes
+		Tags and part test conditions.
+		Xenon tanks match stock balance
+		fix some bulkheadProfiles
+		Localized
+
