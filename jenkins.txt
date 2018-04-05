@@ -24,7 +24,7 @@
 1:SquiggsySpaceResearch, MicroSat.version, MicroSat_0.35m_Probe_Parts
 
 # 3:SOURCEFILE, DESTDIR
-3:MicroSat.version,GameData/MicroSat
+3:MicroSat.version,GameData/SquiggsySpaceResearch
 3:LICENSE.txt,GameData/SquiggsySpaceResearch
 3:README.md,GameData/SquiggsySpaceResearch
 
