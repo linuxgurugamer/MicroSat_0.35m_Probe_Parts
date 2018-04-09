@@ -1,4 +1,7 @@
-1.0.0
+0.1.1
+	Localization and German language by forum user @LeLeon
+
+0.1.0
 	Will be initial release version
 
 	Thanks to forum user @kerbas-ad-astra for the following changes
