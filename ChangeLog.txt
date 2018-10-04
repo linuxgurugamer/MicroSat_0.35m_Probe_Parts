@@ -1,3 +1,7 @@
+0.1.2.1
+	Thanks to github user @minchinWeb for this
+		minor typo and spelling fixes
+
 0.1.2
 	Added SCANSat patch for MicroScanner
 
