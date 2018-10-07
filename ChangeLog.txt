@@ -1,3 +1,6 @@
+0.1.2.3
+	Fixed offset thrust in the liquid fuel engine
+
 0.1.2.2
 	Updated category for the battery
 
