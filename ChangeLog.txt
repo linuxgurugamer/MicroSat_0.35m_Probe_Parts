@@ -1,3 +1,6 @@
+0.1.2.4
+	Version bump for 1.5
+	
 0.1.2.3
 	Fixed offset thrust in the liquid fuel engine
 
