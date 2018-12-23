@@ -2,7 +2,7 @@
   "NAME": "MicroSat",
   "URL": "http://ksp.spacetux.net/avc/MicroSat",
   "DOWNLOAD": "https://github.com/linuxgurugamer/MicroSat/releases",
-  "GITHUB": {
+    "GITHUB": {
     "USERNAME": "linuxgurugamer",
     "REPOSITORY": "MicroSat"
   },
@@ -21,5 +21,10 @@
     "MAJOR": 1,
     "MINOR": 3,
     "PATCH": 1
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 5,
+    "PATCH": 99
   }
 }
