@@ -1,3 +1,6 @@
+0.1.2.8
+    Fixed whitelist file
+    
 0.1.2.7
     Added whitelist file for the new ReStock mod
     
