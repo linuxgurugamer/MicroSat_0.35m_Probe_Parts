@@ -1,5 +1,9 @@
 ChangeLog
 
+0.1.4.1
+	Thanks to github user @pietralbi for this;
+		Added patches for RLs and RestockPlus
+
 0.1.4
     Thanks to user @Jokpau Gaming, who submitted the initial changes for this:
         Added ModuleCargoPart to all parts 
