@@ -1,5 +1,10 @@
 ChangeLog
 
+0.1.4.2
+	Thanks to github user @Adventurer13 for this:
+		Adds compatibility with VABOrganizer
+	Updated version file to use Github for new version info
+
 0.1.4.1
 	Thanks to github user @pietralbi for this;
 		Added patches for RLs and RestockPlus
